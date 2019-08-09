@@ -1,0 +1,14 @@
+name: ZyroxEvents
+main: com.zyrox.events.Main
+version: 8.1
+author: StarZorrow
+softdepend: [WorldEdit, WorldGuard]
+commands:
+  events:
+    description: "Main event command!"
+    aliases: [e, event]
+  eventsconfig:
+    description: "Config command for setting up events!"
+  eventstats:
+    description: "Player event stats!"
+    aliases: [estats, eventstatistics]

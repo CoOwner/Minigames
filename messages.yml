@@ -1,0 +1,5 @@
+#Place holders: %player%
+
+Leave-Event: "&c&l%player% has left the event."
+Join-Event: "&a&l%player% has joined the event."
+Award-Message: "You have received a reward for winning the event."
